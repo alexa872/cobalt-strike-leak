@@ -4,8 +4,12 @@ this is the sc of cobalt strike i got it from freakboy,much respect to this guy,
 you'll know what i'm talking about,
 i uploaded it as a .rar file cz it is too big, turn off your av, since the installation process will get blocked if you didnt
 
-fork it, to get to the people who want it 
+-----------------------------------------------------------------------------------------------------
+# there is also this one overhere:
+# [CobaltstrikeSource](https://github.com/mai1zhi2/CobaltstrikeSource) thanks to [mai1zhi2](https://github.com/mai1zhi2)
+
+------------------------------------------------------------------------------------------------------
 
 
-# ALEXA
+# ORCA
 *EVERYWHERE*
