@@ -9,7 +9,9 @@ i uploaded it as a .rar file cz it is too big, turn off your av, since the insta
 # [CobaltstrikeSource](https://github.com/mai1zhi2/CobaltstrikeSource) thanks to [mai1zhi2](https://github.com/mai1zhi2)
 
 ------------------------------------------------------------------------------------------------------
+# please view [COBALT - WIPE](https://github.com/ORCA666/Cobalt-Wipe) for the real shit
 
+****************************************************************************************************
 
 # ORCA
 *EVERYWHERE*
